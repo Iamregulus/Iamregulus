@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iamregulus
-- 👀 I’m interested in data visualization, web, and app development
+- 👀 I’m interested in data science, web, and app development
 - 🌱 I’m a full-stack developer
 - 💞️ I’m looking to collaborate on machine learning projects and mobile app development 
 - 📫 How to reach me on my email @gathuor@gmail.com
